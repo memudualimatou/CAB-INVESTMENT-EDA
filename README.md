@@ -1,5 +1,7 @@
 <h2 align="center"> CAB COMPANY INVESTMENT </h2>
 
+<br><br>
+
 ## The Problem Statement
 The Client
 
@@ -28,12 +30,12 @@ Transaction_ID.csv – this is a mapping table that contains transaction to cust
 
 City.csv – this file contains list of US cities, their population and number of cab users
 
-
+<br><br>
 # THE GOAL
 
 Provide actionable insights to help XYZ firm in identifying the right company for making investment.
 
-
+<br><br>
 # RESULTS
 
 
@@ -43,6 +45,6 @@ Provide actionable insights to help XYZ firm in identifying the right company fo
 
 * [Cab_Investment_Recommendations.docx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_Recommendations.docx) - this file is the summarization of all hypothesis derives from the insights
 
-* [CabInvestment.pptx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/tree/main/SubmissionWeek3) - this is the model built to extract insights from the 4 differents dataset used to form a gloabal datset called "Global_cab_data" 
+* [CabInvestment.pptx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/tree/main/SubmissionWeek3) - this file is the powerpoint presentation that can be used to vusially present the result of the insight extraction to an organization.
 
 
