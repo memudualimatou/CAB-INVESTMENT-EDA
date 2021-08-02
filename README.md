@@ -39,16 +39,19 @@ Provide actionable insights to help XYZ firm in identifying the right company fo
 # RESULTS
 
 
-* [Cab_Investment_EDA_model.ipynb](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_EDA_model.ipynb) - this is the model built to extract insights from the 4 differents dataset used to form a gloabal datset called "Global_cab_data" 
+* [Cab_Investment_EDA_model.ipynb](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_EDA_model.ipynb) - this is the model built to extract insights from a gloabal datset called "Global_cab_data" got by performing inner join of the 4 different datasets.
 
-* [Cab_Investment_Data Intake Report.pdf](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_Data%20Intake%20Report.pdf) - this file that comprises informations abou the dataset
+* [Cab_Investment_Data Intake Report.pdf](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_Data%20Intake%20Report.pdf) - this file that comprises informations abou the dataset.
 
-* [Cab_Investment_Recommendations.docx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_Recommendations.docx) - this file is the summarization of all hypothesis derives from the insights
-
-
-
-This is one of tasks during my internship with DATA GLACIER
+* [Cab_Investment_Recommendations.docx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_Recommendations.docx) - this file is the summarization of all hypothesis derives from the insights.
 
 * [CabInvestment.pptx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/tree/main/SubmissionWeek3) - this file is the powerpoint presentation that can be used to vusially present the result of the insight extraction to an organization.
+
+
+
+
+
+
+the 4 differents dataset used to form 
 
 
