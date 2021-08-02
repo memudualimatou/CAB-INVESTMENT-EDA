@@ -45,7 +45,7 @@ Provide actionable insights to help XYZ firm in identifying the right company fo
 
 * [Cab_Investment_Recommendations.docx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_Recommendations.docx) - this file is the summarization of all hypothesis derives from the insights.
 
-* [CabInvestment.pptx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/tree/main/SubmissionWeek3) - this file is the powerpoint presentation that can be used to vusially present the result of the insight extraction to an organization.
+* [CabInvestment.pptx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek3/cabInvestment.pptx) - this file is the powerpoint presentation that can be used to vusially present the result of the insight extraction to an organization.
 
 
 
