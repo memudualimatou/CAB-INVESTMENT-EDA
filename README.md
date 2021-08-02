@@ -18,7 +18,7 @@ the quality of your analysis and the value of your recommendations and insights.
 
 the datasets:
 
-You have been provided 4 individual data sets. Time period of data is from 31/01/2016 to 31/12/2018.
+You have been provided 4 individual data sets. Time period of data is from 01/01/2016 to 31/12/2018.
 
 Below are the list of datasets which are provided for the analysis:
 
@@ -44,6 +44,10 @@ Provide actionable insights to help XYZ firm in identifying the right company fo
 * [Cab_Investment_Data Intake Report.pdf](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_Data%20Intake%20Report.pdf) - this file that comprises informations abou the dataset
 
 * [Cab_Investment_Recommendations.docx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/blob/main/SubmissionWeek2/Cab_Investment_Recommendations.docx) - this file is the summarization of all hypothesis derives from the insights
+
+
+
+This is one of tasks during my internship with DATA GLACIER
 
 * [CabInvestment.pptx](https://github.com/memudualimatou/CAB-INVESTMENT-EDA/tree/main/SubmissionWeek3) - this file is the powerpoint presentation that can be used to vusially present the result of the insight extraction to an organization.
 
