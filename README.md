@@ -52,6 +52,5 @@ Provide actionable insights to help XYZ firm in identifying the right company fo
 
 
 
-the 4 differents dataset used to form 
 
 
